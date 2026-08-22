@@ -30,6 +30,6 @@ public:
     TreeNode* buildTree(vector<int>& pre, vector<int>& in) {
         int n = pre.size();
 
-        return build(pre, 0, n - 1,in, 0, n - 1);
+        return build(pre, 0, n ,in, 0, n - 1);
     }
 };
