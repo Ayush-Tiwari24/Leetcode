@@ -105,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0113-path-sum-ii) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
