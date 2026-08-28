@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1544-make-the-string-great](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
