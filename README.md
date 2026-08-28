@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -144,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
