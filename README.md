@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Lifting
 |  |
 | ------- |
