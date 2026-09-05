@@ -4,15 +4,26 @@ public:
         if(root==NULL)return 0;
         return 1+max(level(root->left),level(root->right));
     }
-    long long lOrder(TreeNode* root,int level) {
-        if(root==NULL)return LLONG_MIN;
-        if(level==0)return root->val;
-        long long left=lOrder(root->left,level-1);
-        if(left!=LLONG_MIN)return left;
-        return lOrder(root->right,level-1);
+    void nthLevel(TreeNode* root, int curr, int level, vector<int>& v) {
+    if (root == NULL)return;
+    if (curr == level) {
+        v.push_back(root->val);
+        return;
+    }
+    nthLevel(root->left, curr + 1, level, v);
+    nthLevel(root->right, curr + 1, level, v);
+}
+    int lOrder(TreeNode* root,int ans) {
+        int n = level(root);
+        for (int i = 1; i <= n; i++) {
+            vector<int> v;
+            nthLevel(root, 1, i, v);
+            ans=v[0];
+        }
+        return ans;
     }
     int findBottomLeftValue(TreeNode* root) {
-        int n = level(root);
-        return lOrder(root,n-1);
+        int ans;
+        return lOrder(root,ans);
     }
 };
