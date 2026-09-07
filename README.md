@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3903-smallest-stable-index-i](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Backtracking
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Monotonic Stack
 |  |
