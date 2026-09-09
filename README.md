@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3871-count-commas-in-range-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
