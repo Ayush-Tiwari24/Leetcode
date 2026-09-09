@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0242-valid-anagram) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
