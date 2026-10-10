@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0912-sort-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0912-sort-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Counting
 |  |
@@ -395,10 +398,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0912-sort-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -407,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0274-h-index) |
+| [0912-sort-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -415,4 +421,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
