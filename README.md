@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0912-sort-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Counting
 |  |
