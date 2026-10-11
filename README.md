@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Counting
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -417,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Counting Sort
 |  |
 | ------- |
@@ -439,4 +445,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0912-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
