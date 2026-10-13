@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0739-daily-temperatures) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0904-fruit-into-baskets](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0946-validate-stack-sequences) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0567-permutation-in-string) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 ## DP on Trees
 |  |
 | ------- |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1046-last-stone-weight) |
