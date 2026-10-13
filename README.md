@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2390-removing-stars-from-a-string](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
