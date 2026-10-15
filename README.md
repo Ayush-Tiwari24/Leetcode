@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## String
 |  |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0567-permutation-in-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -473,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
