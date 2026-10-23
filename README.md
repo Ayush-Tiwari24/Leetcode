@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0739-daily-temperatures) |
+| [0781-rabbits-in-forest](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0781-rabbits-in-forest) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0881-boats-to-save-people](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0781-rabbits-in-forest](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0781-rabbits-in-forest) |
 | [0904-fruit-into-baskets](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0781-rabbits-in-forest](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0781-rabbits-in-forest) |
 | [0881-boats-to-save-people](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0781-rabbits-in-forest](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0781-rabbits-in-forest) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
