@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0057-insert-interval) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0435-non-overlapping-intervals) |
