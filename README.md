@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## String
 |  |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0781-rabbits-in-forest](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0781-rabbits-in-forest) |
@@ -562,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0523-continuous-subarray-sum) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
