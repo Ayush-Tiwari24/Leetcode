@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0055-jump-game) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0049-group-anagrams) |
 | [0227-basic-calculator-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0227-basic-calculator-ii) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Data Stream
 |  |
