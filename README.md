@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0739-daily-temperatures) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0881-boats-to-save-people](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0781-rabbits-in-forest](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0860-lemonade-change) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
 |  |
@@ -580,4 +584,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0398-random-pick-index) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
