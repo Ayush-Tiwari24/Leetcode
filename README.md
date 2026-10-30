@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Greedy
 |  |
 | ------- |
