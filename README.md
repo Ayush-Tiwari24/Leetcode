@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0509-fibonacci-number) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-Tiwari24/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Merge Sort
 |  |
